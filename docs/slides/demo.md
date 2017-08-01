@@ -1,6 +1,6 @@
 <!-- .slide: data-state="title" -->
 # Pixel Prowess
-my own slideshow
+my slideshow
 
 ---
 
